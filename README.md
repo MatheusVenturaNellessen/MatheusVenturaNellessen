@@ -20,10 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-<h2 align="left">Conecte-se</h2>
+<h2 align="left">Conecte-se comigo</h2>
 
 <div align="left">
-  <a href="www.linkedin.com/in/matheus-ventura-nellessen" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-ventura-nellessen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:ti.matheus.v.n@gmail.com" target="_blank">
@@ -31,6 +31,7 @@
   </a>
 </div>
 
+<br>
 <br>
 
 <div align="center">

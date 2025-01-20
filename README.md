@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Matheus Ventura Nellessen e estou em transição de carreira para a àrea de tecnologia, em especial, a programação.<br><br><br>Atualmente estou aprofudando meus conhecimentos em front-end, com tecnologias como HTML, CSS e Javascript, e em linguagem C. Estou em busca de oportunidades de estágio e/ou inserção no mercado de trabalho.<br><br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
+<p align="left">Me chamo Matheus Ventura Nellessen e estou em transição de carreira para a área de tecnologia, em especial, a programação.<br><br><br>Estou me didicando para me tornar um desenvolvedor fullstack, conheço um pouco de HTML e CSS e, atualmente, estou me aprofundando em Javascript e seus frameworks; próximo passo é aprender Java . Estou em busca de oportunidades de estágio e/ou inserção no mercado de trabalho.<br><br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
 
 ###
 

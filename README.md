@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Matheus Ventura Nellessen e estou em transição de carreira para a área de tecnologia, em especial, a programação.<br><br><br>Estou me didicando para me tornar um desenvolvedor fullstack, conheço um pouco de HTML e CSS e, atualmente, estou me aprofundando em Javascript e seus frameworks; próximo passo é aprender Java . Estou em busca de oportunidades de estágio e/ou inserção no mercado de trabalho.<br><br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
+<p align="justify">Me chamo Matheus Ventura Nellessen e estou em transição de carreira para a área de tecnologia, em especial, a programação.<br><br><br>Estou me didicando para me tornar um desenvolvedor fullstack, conheço um pouco de HTML e CSS e, atualmente, estou me aprofundando em Javascript e TypeScript e seus frameworks; próximo passo é aprender Java.<br><br>Estou em busca de oportunidades de estágio e/ou inserção no mercado de trabalho.<br><br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
 
 ###
 
@@ -28,7 +28,12 @@
 
 ###
 
-<h2 align="left">Conecte-se</h2>
+<h2 align="left">Conecte-se comigo</h2>
+
+<div>
+  <a href="https://mailto:ti.matheus.v.n@gmail.com?subject=Nova+conex%C3%A3o+no+GitHub&body=Ol%C3%A1,+me+conectei+contigo+no+GitHub!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/matheus-ventura-nellessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 ###
 

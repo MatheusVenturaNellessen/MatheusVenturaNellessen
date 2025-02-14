@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=50&pause=1000&color=ffffff&width=1100&height=90&lines=Ol%C3%A1!+Seja+muito+bem+vindo(a)!" alt="Typing SVG" />
 
-<p align="justify">Me chamo Matheus Ventura Nellessen e estou em transição de carreira para a área de tecnologia, em especial, a programação.<br><br><br>Estou me didicando para me tornar um desenvolvedor fullstack, conheço um pouco de HTML e CSS e, atualmente, estou me aprofundando em Javascript e TypeScript e seus frameworks; próximo passo é aprender Java.<br><br>Estou em busca de oportunidades de estágio e/ou inserção no mercado de trabalho.<br><br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
+<p align="justify">Me chamo Matheus Ventura Nellessen e estou em transição de carreira para a área de tecnologia, em especial, a programação.<br><br><br>Estou me didicando para me tornar um desenvolvedor fullstack, conheço um pouco de HTML e CSS e, atualmente, estou me aprofundando em Javascript e TypeScript e seus frameworks; próximo passo é aprender Java.<br><br>Estou em busca de oportunidades para aplicar e aprimorar meus conhecimentos, contribuindo com soluções eficientes e inovadoras.<br><br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p><br>
 
 <div align="center">
   <img height="300" src="https://media1.tenor.com/m/K8nOUqwy3kEAAAAd/copilot-programmers.gif"  />
@@ -35,4 +35,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MatheusVenturaNellessen/MatheusVenturaNellessen/output/snake.svg" alt="Snake animation" />
 </div>
-

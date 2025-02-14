@@ -21,7 +21,7 @@
 <h2 align="left">Conecte-se comigo</h2>
 
 <div>
-  <a href="https://mailto:ti.matheus.v.n@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ti.matheus.v.n@gmail.com?subject=Nova%20conex%C3%A3o%20no%20Github&body=Ol%C3%A1,%20acabei%20de%20me%20conectar%20contigo%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/matheus-ventura-nellessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 

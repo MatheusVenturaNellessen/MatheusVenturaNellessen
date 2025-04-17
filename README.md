@@ -6,7 +6,7 @@
 
 <p align="justify">Me chamo Matheus Ventura Nellessen e estou em transição de carreira para a área de tecnologia, em especial, a programação após atuar como nutricionista.<br><br>Possuo conhecimento em Front-end (HTML5, CSS3 e JavaScript), e atualmente aprofundo meu estudo no Back-end (no momento Node.js). Próxima estapa será migrar para área de desenvolvimento de sistemas, iniciando os aprendizados em Java (Spring Boot) e/ou C# (.NET).<br><br>Estou em busca de oportunidades para aplicar e aprimorar meus conhecimentos, contribuindo com soluções inovadoras.<br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
 
-<br><br>
+<br>
 <div align="center">
   <img src="./img/cat-programmer.gif" alt="meme de gato digitando em compuatdor">
 </div>

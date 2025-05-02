@@ -4,7 +4,7 @@
 
 <h2>Sobre mim:</h2>
 
-<p align="justify">Me chamo Matheus Ventura Nellessen e estou em transição de carreira para a área de tecnologia, em especial, a programação após atuar como nutricionista.<br><br>Possuo conhecimento em Front-end (HTML5, CSS3 e JavaScript), e atualmente aprofundo meu estudo no Back-end (no momento Node.js). Próxima estapa será migrar para área de desenvolvimento de sistemas, iniciando os aprendizados em Java (Spring Boot) e/ou C# (.NET).<br><br>Estou em busca de oportunidades para aplicar e aprimorar meus conhecimentos, contribuindo com soluções inovadoras.<br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
+<p align="justify">Me chamo Matheus e estou em transição de carreira para a área de tecnologia, em especial a programação, após atuar como nutricionista.<br><br>Possuo conhecimento em Front-end nas linguagens HTML5, CSS3 e JavaScript. Atualmente aprofundo meus estudos no Back-end (Node.js até o momento). Próxima estapa será me especializar na área de desenvolvimento de sistemas / software, iniciando os aprendizados em Java (com Spring Frameworks) e/ou C# (com .NET).<br><br>Estou em busca de oportunidades para aplicar e aprimorar meus conhecimentos, contribuindo com soluções eficientes.<br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
 
 <br>
 <div align="center">
@@ -18,7 +18,13 @@
 <h3>Quais eu mais utilizo:</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusVenturaNellessen&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="Gráfico das linguagens mais usadas" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVenturaNellessen&layout=compact&langs_count=16&hide_progress=false&count_private=true&show_icons=true&theme=github_dark&hide_border=false&hide_title=true" alt="Top languages" width="400px">
+</div>
+
+<h2>WakaTime - VS Code</h2>
+<p>Início: 02/05/25</p>
+<div align="center">
+  <img src="https://wakatime.com/share/@dev_matheusvn/fe444781-68b4-4970-bc01-3fd6d88eb2e6.svg" height="350px" margin="auto">
 </div>
 
 <h2 align="left">Conecte-se comigo:</h2>

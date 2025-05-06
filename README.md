@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&pause=500&color=00ADB5&width=750&height=80&lines=Ol%C3%A1!+Seja+muito+bem+vindo(a)!" alt="texto animado de boas vindas">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&duration=2500&pause=1000&center=true&vCenter=true&width=750&height=100&lines=Ol%C3%A1!+Seja+bem+vindo(a)!;Veja+minha+jornada!" alt="Typing SVG" />
 </div>
 
 <h2>Sobre mim:</h2>
@@ -18,18 +18,18 @@
 <h3>Quais eu mais utilizo:</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVenturaNellessen&layout=compact&langs_count=16&hide_progress=false&count_private=true&show_icons=true&theme=github_dark&hide_border=false&hide_title=true" alt="Top languages" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVenturaNellessen&layout=compact&langs_count=16&hide_progress=false&count_private=true&show_icons=true&theme=github_dark&hide_border=false&hide_title=true" alt="Top languages" width="500px">
 </div>
 
-<h2>WakaTime - VS Code</h2>
-<p>Início: 02/05/25</p>
+<h2>WakaTime Status no editor VS Code</h2>
 <div align="center">
-  <img src="https://wakatime.com/share/@dev_matheusvn/fe444781-68b4-4970-bc01-3fd6d88eb2e6.svg" height="350px" margin="auto">
+  <img src="https://wakatime.com/share/@dev_matheusvn/705fd217-07eb-4fdb-b821-6af82e98f3c5.svg" height="450px" margin="auto">
 </div>
 
 <h2 align="left">Conecte-se comigo:</h2>
 
 <p align="justify">Se você gostou da minha jornada ou tem interesse em trocar figurinhas sobre tecnologia, não hesite em entrar em contato.</p>
 
-<a href="mailto:ti.matheus.v.n@gmail.com?subject=Nova%20conex%C3%A3o%20no%20Github&body=Ol%C3%A1,%20acabei%20de%20me%20conectar%20contigo%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" margin="10px"></a>
-<a href="https://linkedin.com/in/matheus-ventura-nellessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ti.matheus.v.n@gmail.com?subject=Nova%20conex%C3%A3o%20no%20Github&body=Ol%C3%A1,%20acabei%20de%20me%20conectar%20contigo%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="40"></a>
+<a href="https://linkedin.com/in/matheus-ventura-nellessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40"></a>
+<a href="https://wakatime.com/@dev_matheusvn" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" width="150" height="40"></a>

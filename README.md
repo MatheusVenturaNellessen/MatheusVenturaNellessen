@@ -30,6 +30,7 @@
 
 <p align="justify">Se você gostou da minha jornada ou tem interesse em trocar figurinhas sobre tecnologia, não hesite em entrar em contato.</p>
 
-<a href="mailto:ti.matheus.v.n@gmail.com?subject=Nova%20conex%C3%A3o%20no%20Github&body=Ol%C3%A1,%20acabei%20de%20me%20conectar%20contigo%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" height="40"></a>
-<a href="https://linkedin.com/in/matheus-ventura-nellessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40"></a>
-<a href="https://wakatime.com/@dev_matheusvn" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" width="150" height="40"></a>
+<a href="mailto:ti.matheus.v.n@gmail.com?subject=Nova%20conex%C3%A3o%20no%20Github&body=Ol%C3%A1,%20acabei%20de%20me%20conectar%20contigo%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/+554399567105" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://linkedin.com/in/matheus-ventura-nellessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://wakatime.com/@dev_matheusvn" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"></a>

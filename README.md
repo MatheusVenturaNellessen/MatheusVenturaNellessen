@@ -4,7 +4,7 @@
 
 <h2>Sobre mim:</h2>
 
-<p align="justify">Me chamo Matheus e estou em transição de carreira para a área de tecnologia, em especial a programação, após atuar como nutricionista.<br><br>Possuo conhecimento em Front-end nas linguagens HTML5, CSS3 e JavaScript. Atualmente aprofundo meus estudos no Back-end (Node.js até o momento). Próxima estapa será me especializar na área de desenvolvimento de sistemas / software, iniciando os aprendizados em Java (com Spring Frameworks) e/ou C# (com .NET).<br><br>Estou em busca de oportunidades para aplicar e aprimorar meus conhecimentos, contribuindo com soluções eficientes.<br><br>Sinta-se a vontade de explorar meus projetos e acompnahar minha jornada!</p>
+<p align="justify">Me chamo Matheus, sou estagiário de TI na TATA Consultancy Services (TCS), onde participo do programa Bootcamp 2X2Y em Londrina. No bootcamp serei capacitado tecnicamente para a área de Analytics abrangendo tecnologias como Python, Pandas, SQL e UX/UI em projetos corporativos e em ambientes ágeis.<br><br>Possuo familariedade em tecnologias Front-end (HTML, CSS e JavaScript) e Back-end (Node.js e C). Sempre valorizando boas práticas de desenvolvimento como Clean Code e versionamento com Git.<br><br>Sinta-se a vontade e dê uma olhadinha em minha trajetória!</p>
 
 <br>
 <div align="center">

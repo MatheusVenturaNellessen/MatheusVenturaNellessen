@@ -21,9 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVenturaNellessen&layout=compact&langs_count=16&hide_progress=false&count_private=true&show_icons=true&theme=github_dark&hide_border=false&hide_title=true" alt="Top languages" width="500px">
 </div>
 
-<h2>WakaTime Status no editor VS Code</h2>
+<h2>WakaTime Status do editor VS Code</h2>
 <div align="center">
-  <img src="https://wakatime.com/share/@dev_matheusvn/705fd217-07eb-4fdb-b821-6af82e98f3c5.svg" height="450px" margin="auto">
+  <img src="https://wakatime.com/share/@dev_matheusvn/fe312fd4-b49e-471a-992f-937aecdc767b.svg" height="450px" margin="auto">
 </div>
 
 <h2 align="left">Conecte-se comigo:</h2>

@@ -18,12 +18,12 @@
 <h3>Quais eu mais utilizo:</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVenturaNellessen&layout=compact&langs_count=16&hide_progress=false&count_private=true&show_icons=true&theme=github_dark&hide_border=false&hide_title=true" alt="Top languages" width="500px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVenturaNellessen&layout=compact&langs_count=16&hide_progress=false&count_private=true&show_icons=true&theme=github_dark&hide_border=false&hide_title=true" alt="Top languages" height="auto" width="400px">
 </div>
 
-<h2>WakaTime Status do editor VS Code</h2>
+<h2>WakaTime Status - VS Code</h2>
 <div align="center">
-  <img src="https://wakatime.com/share/@dev_matheusvn/fe312fd4-b49e-471a-992f-937aecdc767b.svg" height="450px" margin="auto">
+  <img src="https://wakatime.com/share/@dev_matheusvn/55c51982-1534-4d41-b8fe-b87aae35b834.svg" height="450px" margin="auto">
 </div>
 
 <h2 align="left">Conecte-se comigo:</h2>

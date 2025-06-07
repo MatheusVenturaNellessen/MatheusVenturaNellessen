@@ -4,9 +4,10 @@
 
 <h2>Sobre mim:</h2>
 
-<p align="justify">Me chamo Matheus, sou estagiário de TI na TATA Consultancy Services (TCS), onde participo do programa Bootcamp 2X2Y em Londrina. No bootcamp serei capacitado tecnicamente para a área de Analytics abrangendo tecnologias como Python, Pandas, SQL e UX/UI em projetos corporativos e em ambientes ágeis.<br><br>Possuo familariedade em tecnologias Front-end (HTML, CSS e JavaScript) e Back-end (Node.js e C). Sempre valorizando boas práticas de desenvolvimento como Clean Code e versionamento com Git.<br><br>Sinta-se a vontade e dê uma olhadinha em minha trajetória!</p>
+<p align="justify">Me chamo Matheus, sou estagiário em Análise de Dados na TATA Consultancy Services (TCS), onde participo do Bootcamp 2X2Y em Londrina. Neste programa, estou sendo capacitado para a área de Analytics abrangendo tecnologias como <code>Python</code>; <code>Pandas</code> (para tratamento otimizado de dados); <code>Matplotlib</code> e <code>Seaborn</code> (para criação e visualizaçáo de gráficos); bancos de dados relacionais (com <code>SQLite</code>); e <code>Streamlit</code> usando princípios de <code>UI/UX</code> (para criação de dashboards interativos voltados a experiência do usuário).<br><br>Possuo background em tecnologias Front-end e Back-end, sendo elas: <code>HTML5</code> • <code>CSS3</code> • <code>JavaSCprit</code> • <code>Node.js</code> • <code>C</code> • <code>Git</code>. Sempre valorizando boas práticas de desenvolvimento como <code>Clean Code</code> e <code>Conventional Commits</code>.<br><br>Sinta-se a vontade e dê uma olhadinha em minha trajetória!</p>
 
 <br>
+
 <div align="center">
   <img src="./img/cat-programmer.gif" alt="meme de gato digitando em compuatdor">
 </div>

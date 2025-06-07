@@ -13,7 +13,7 @@
 
 <h2 align="left">Tecnologias e linguagens:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,c&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,streamlit,git&titles=true)
 
 <h3>Quais eu mais utilizo:</h3>
 

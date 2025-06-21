@@ -27,7 +27,7 @@
           <img src="https://github-readme-stats.vercel.app/api?username=MatheusVenturaNellessen&show_icons=true&theme=github_dark&rank_icon=percentile&locale=pt-br&custom_title=Estatísticas+Gerais+(GitHub)" />
         </td>
         <td align="center">
-          <img src="./img/analytics-cat.gif" width="auto"/>
+          <img src="./img/cat-analytics.gif" height="350px"/>
         </td>
       </tr>
       <tr>

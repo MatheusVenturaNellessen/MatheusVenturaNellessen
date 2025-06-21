@@ -27,7 +27,8 @@
           <img src="https://github-readme-stats.vercel.app/api?username=MatheusVenturaNellessen&show_icons=true&theme=github_dark&rank_icon=percentile&locale=pt-br&custom_title=Estatísticas+Gerais+(GitHub)" />
         </td>
         <td align="center">
-          <img src="./img/cat-analytics.gif" height="350px"/>
+          <p align="left">Tempo Total (patir de abr./25)</p>
+          <img src="https://wakatime.com/badge/user/ba99e078-f53e-4e54-8fa1-e3dffd6d3d35.svg" width="350px" />
         </td>
       </tr>
       <tr>

@@ -21,7 +21,7 @@
 
 <!-- Dashboards -->
 <details>
-  <summary>Clique para visualizar minhas estatísticas 👇</summary>
+  <summary>Clique para ver minhas estatísticas 👇</summary>
   <br><br>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusVenturaNellessen&show_icons=true&theme=github_dark&rank_icon=percentile&locale=pt-br&custom_title=Estatísticas+Gerais+(GitHub)"><br>

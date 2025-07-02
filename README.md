@@ -5,7 +5,7 @@
 
 <!-- Apresentação -->
 <h2>Me chamo <strong>Matheus</strong>, prazer!</h2>
-<p align="justify">Sou estagiário em Análise de Dados na <strong>TATA Consultancy Services (TCS)</strong>, onde participo do <strong>Bootcamp 2X2Y</strong> de Londrina. Neste programa, estou sendo capacitado para a área de <strong>Analytics</strong>, abrangendo tecnologias como <code>Python</code>; <code>Pandas</code> para tratamento otimizado de dados; <code>Matplotlib</code> e <code>Seaborn</code> para visualizaçáo de dados; bancos de dados relacionais e <code>SQL</code> (com <code>SQLite</code>); e <code>Streamlit</code> usando princípios de <code>UI/UX</code> para criação de dashboards voltados a experiência do usuário.<br><br>Possuo background em outras tecnologias, sendo elas: <code>HTML5</code> • <code>CSS3</code> • <code>JavaSCprit</code> • <code>Node.js</code> • <code>C</code> • <code>Git</code>. Sempre valorizando boas práticas de desenvolvimento como <code>Clean Code</code>, <code>Git</code> e <code>Conventional Commits</code>.<br><br>Sinta-se a vontade e dê uma olhadinha em minha trajetória!</p>
+<p align="justify">Sou estagiário em Análise de Dados na <strong>TATA Consultancy Services (TCS)</strong>, onde participo do <strong>Bootcamp 2X2Y</strong> de Londrina. Neste programa, estou sendo capacitado para a área de <strong>Analytics</strong>, abrangendo tecnologias como <code>Python</code>; <code>Pandas</code> para tratamento otimizado de dados; <code>NumPy</code>, essencial para operações matemáticas em listas numéricas; <code>Matplotlib</code> e <code>Seaborn</code> para visualização de dados; bancos de dados relacionais e <code>SQL</code> (com <code>SQLite</code>); <code>Streamlit</code> usando princípios de <code>UI/UX</code> para criação de dashboards voltados a experiência do usuário; e <code>Scikit-Learn</code> para aprendizado de máquina (Machine Learning).<br><br>Possuo background em outras tecnologias, sendo elas: <code>HTML5</code> • <code>CSS3</code> • <code>JavaSCprit</code> • <code>Node.js</code> • <code>C</code> • <code>Git</code>. Sempre valorizando boas práticas de desenvolvimento como <code>Clean Code</code>, <code>Git</code> e <code>Conventional Commits</code>.<br><br>Sinta-se a vontade e dê uma olhadinha em minha trajetória!</p>
 
 <!-- Meme do gato programador -->
 <div align="center">
@@ -16,7 +16,7 @@
 <h2 align="left">Tecnologias que já vivencie:</h2>
 <div align="center">
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,html,css,js,nodejs,git,python,pandas,numpy,matplotlib,seaborn,streamlit&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,codeblocks,html,css,js,nodejs,vscode,git,python,pandas,numpy,matplotlib,seaborn,streamlit,sqlite,scikitlearn,jupyter,anaconda&titles=true)
 </div>
 
 <!-- Dashboards -->

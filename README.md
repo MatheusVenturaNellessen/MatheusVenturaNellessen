@@ -16,7 +16,7 @@
 <h2 align="left">Tecnologias que já vivencie:</h2>
 <div align="center">
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,codeblocks,html,css,js,nodejs,vscode,git,gitbash,python,pandas,numpy,matplotlib,seaborn,streamlit,sqlite,anaconda,jupyter,scikitlearn&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,codeblocks,html,css,js,nodejs,vscode,git,gitbash,python,pandas,numpy,matplotlib,seaborn,streamlit,sqlite,anaconda,jupyter,scikitlearn,ollama&titles=true)
 </div>
 
 <!-- Dashboards -->

@@ -1,11 +1,14 @@
 <!-- Título principal -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&duration=2500&pause=1000&center=true&vCenter=true&width=750&height=100&lines=Ol%C3%A1!+Seja+bem+vindo(a)!;Veja+minha+jornada!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&duration=2500&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Data+Analyst;AI+Enthusiast;Python+Developer;Computational+Logic+Lover;Design+Dreamer;">
 </div>
 
 <!-- Apresentação -->
-<h2>Me chamo <strong>Matheus</strong>, prazer!</h2>
-<p align="justify">Sou estagiário em Análise de Dados na <strong>TATA Consultancy Services (TCS)</strong>, onde participo do <strong>Bootcamp 2X2Y</strong> de Londrina. Neste programa, estou sendo capacitado para a área de <strong>Analytics</strong>, abrangendo tecnologias como <code>Python</code>; <code>Pandas</code> para tratamento otimizado de dados; <code>NumPy</code>, essencial para operações matemáticas em listas numéricas; <code>Matplotlib</code> e <code>Seaborn</code> para visualização de dados; bancos de dados relacionais e <code>SQL</code> (com <code>SQLite</code>); <code>Streamlit</code> usando princípios de <code>UI/UX</code> para criação de dashboards voltados a experiência do usuário; e <code>Scikit-Learn</code> para aprendizado de máquina (Machine Learning).<br><br>Possuo background em outras tecnologias, sendo elas: <code>HTML5</code> • <code>CSS3</code> • <code>JavaSCprit</code> • <code>Node.js</code> • <code>C</code> • <code>Git</code>. Sempre valorizando boas práticas de desenvolvimento como <code>Clean Code</code>, <code>Git</code> e <code>Conventional Commits</code>.<br><br>Sinta-se a vontade e dê uma olhadinha em minha trajetória!</p>
+<h2>Me chamo <strong>Matheus</strong>, prazer! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="30" height="30" /></h2>
+
+<p align="justify">Sou estagiário em <b>Analytics</b> na <strong>TATA Consultancy Services (TCS)</strong>, onde participo do <strong>Bootcamp 2X2Y</strong> em Londrina. Neste programa, estou sendo capacitado para a área de dados, abrangendo tecnologias como <code>Python</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Seaborn</code> • <code>SQL</code> (com <b>SQLite</b>, <b>MySQL</b> e <b>PostgreSQL</b>) • <code>Streamlit</code> • <code>Scikit-Learn</code>.</p>
+
+<p>Possuo background em outras tecnologias, sendo elas: <code>HTML5</code> • <code>CSS3</code> • <code>JavaScprit</code> • <code>Node.js</code> • <code>C</code> • <code>Git</code>. Sempre valorizando boas práticas de desenvolvimento como <code>Clean Code</code> • <code>Git</code> • <code>Conventional Commits</code> • <code>documentação técinica</code>.</p><br>
 
 <!-- Meme do gato programador -->
 <div align="center">
@@ -13,7 +16,7 @@
 </div>
 
 <!-- Ícones de habilidades -->
-<h2 align="left">Tecnologias que já vivencie:</h2>
+<h2 align="left">Tecnologias que já vivencie <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30" height="30" /></h2>
 <div align="center">
   
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,codeblocks,html,css,js,nodejs,vscode,git,gitbash,python,pandas,numpy,matplotlib,seaborn,streamlit,sqlite,anaconda,jupyter,scikitlearn,ollama,mysql&titles=true)
@@ -21,23 +24,27 @@
 
 <!-- Dashboards -->
 <details>
-  <summary>Clique para ver minhas estatísticas 👇</summary>
-  <br><br>
+  <summary>Veja minhas estatísticas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="30" height="25" /></summary><br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatheusVenturaNellessen&show_icons=true&theme=github_dark&rank_icon=percentile&locale=pt-br&custom_title=Estatísticas+Gerais+(GitHub)"><br>
-    <hr>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVenturaNellessen&layout=pie&theme=github_dark&locale=pt-br&custom_title=Top+Linguagens+(GitHub)"><br>
-    <hr>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dev_matheusvn&theme=github_dark&locale=pt-br&custom_title=Distribuição+Percentual+das+Linguagens+(WakaTime)"><br><br>
-    <img src="https://wakatime.com/badge/user/ba99e078-f53e-4e54-8fa1-e3dffd6d3d35.svg" width="225px">
+    <img src="https://github-readme-stats.vercel.app/api?username=MatheusVenturaNellessen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=M%C3%A9tricas%20Gerais" height="250" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusVenturaNellessen&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2&custom_title=Top%2010%20Linguagens" height="250" alt="languages graph"  />
   </div>
 </details>
 
 <!-- CTA (networking) -->
-<h2 align="left">Conecte-se comigo:</h2>
+<h2 align="left">Conecte-se comigo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="30" height="30" /></h2>
 <p align="justify">Se você gostou da minha jornada ou tem interesse em trocar figurinhas sobre tecnologia, não hesite em entrar em contato.</p>
 <div align="center">
   <a href="mailto:ti.matheus.v.n@gmail.com?subject=Nova%20conex%C3%A3o%20no%20Github&body=Ol%C3%A1,%20acabei%20de%20me%20conectar%20contigo%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/+554399567105" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <!-- <a href="https://wa.me/+554399567105" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> -->
   <a href="https://linkedin.com/in/matheus-ventura-nellessen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+</div><br>
+
+<!-- Pacman animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusVenturaNellessen/MatheusVenturaNellessen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusVenturaNellessen/MatheusVenturaNellessen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusVenturaNellessen/MatheusVenturaNellessen/output/pacman-contribution-graph.svg">
+</picture><br><br>
+
+<span>Ei! Me siga também no GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Winking%20Face.webp" alt="Winking Face" width="30" height="30" /></span>

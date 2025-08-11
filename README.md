@@ -35,7 +35,7 @@
 <h2 align="left">Explore meus projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="30" height="30" /></h2>
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVenturaNellessen&repo=portfolio-repos&theme=dark)](https://github.com/MatheusVenturaNellessen/portfolio-repos)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVenturaNellessen&repo=hub-central-projetos&theme=dark)](https://github.com/MatheusVenturaNellessen/hub-central-projetos)
 
 </div>
 

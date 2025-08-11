@@ -1,6 +1,6 @@
 <!-- Título principal -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&duration=2500&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Data+Analyst;AI+Enthusiast;Python+Developer;Computational+Logic+Lover;Design+Dreamer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=6DE287&size=60&duration=2500&pause=1000&center=true&vCenter=true&width=800&height=100&lines=Data+Analyst;AI+Enthusiast;Python+Developer;Computational+Logic+Lover;Design+Dreamer;">
 </div>
 
 <!-- Apresentação -->
@@ -19,17 +19,25 @@
 <h2 align="left">Tecnologias que já vivencie <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="30" height="30" /></h2>
 <div align="center">
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,codeblocks,html,css,js,nodejs,vscode,git,gitbash,python,pandas,numpy,matplotlib,seaborn,streamlit,sqlite,anaconda,jupyter,scikitlearn,ollama,mysql&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,codeblocks,html,css,js,nodejs,vscode,git,gitbash,python,pandas,numpy,matplotlib,seaborn,streamlit,sqlite,anaconda,jupyter,scikitlearn,ollama,mysql,reactnative&titles=true)
 </div>
 
 <!-- Dashboards -->
 <details>
   <summary>Veja minhas estatísticas <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="30" height="25" /></summary><br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatheusVenturaNellessen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=M%C3%A9tricas%20Gerais" height="250" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusVenturaNellessen&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2&custom_title=Top%2010%20Linguagens" height="250" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=MatheusVenturaNellessen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=M%C3%A9tricas%20Gerais" height="250" alt="stats graph"  /><hr>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusVenturaNellessen&locale=pt-br&hide_title=false&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2&custom_title=Top%2010%20Linguagens" height="400" alt="languages graph"  />
   </div>
 </details>
+
+<!-- Repositório Principal -->
+<h2 align="left">Explore meus projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="30" height="30" /></h2>
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVenturaNellessen&repo=portfolio-repos&theme=dark)](https://github.com/MatheusVenturaNellessen/portfolio-repos)
+
+</div>
 
 <!-- CTA (networking) -->
 <h2 align="left">Conecte-se comigo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" alt="Inbox Tray" width="30" height="30" /></h2>
@@ -47,4 +55,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusVenturaNellessen/MatheusVenturaNellessen/output/pacman-contribution-graph.svg">
 </picture><br><br>
 
-<span>Ei! Me siga também no GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Winking%20Face.webp" alt="Winking Face" width="30" height="30" /></span>
+<h6>Ei! Me siga também no GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Winking%20Face.webp" alt="Winking Face" width="20" height="20" /></h6>

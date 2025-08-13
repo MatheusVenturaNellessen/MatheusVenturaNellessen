@@ -27,7 +27,7 @@
 <h6 align="left">Clique no banner <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="20" height="20" /> e explore meu <strong>Hub de Repositórios</> completo!</h6>
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVenturaNellessen&repo=hub-central-projetos&theme=github_dark&hide_border=false)](https://github.com/MatheusVenturaNellessen/hub-central-projetos)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVenturaNellessen&repo=hub-projetos&theme=github_dark&hide_border=false)](https://github.com/MatheusVenturaNellessen/hub-projetos)
 
 </div>
 
